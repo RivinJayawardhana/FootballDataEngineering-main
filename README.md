@@ -9,7 +9,7 @@ This Python-based project crawls data from Wikipedia using Apache Airflow, clean
 3. [Getting Started](#getting-started)
 4. [Running the Code With Docker](#running-the-code-with-docker)
 5. [How It Works](#how-it-works)
-6. [Video](#video)
+
 
 ## System Architecture
 ![system_architecture.png](assets%2Fsystem_architecture.png)
@@ -46,5 +46,3 @@ This Python-based project crawls data from Wikipedia using Apache Airflow, clean
 3. Transforms the data.
 4. Pushes the data to Azure Data Lake.
 
-## Video
-[![FootballDataEngineering](https://img.youtube.com/vi/tKIXUqz17W8/0.jpg)](https://www.youtube.com/watch?v=tKIXUqz17W8)
