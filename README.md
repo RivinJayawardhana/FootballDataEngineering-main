@@ -46,3 +46,11 @@ This Python-based project crawls data from Wikipedia using Apache Airflow, clean
 3. Transforms the data.
 4. Pushes the data to Azure Data Lake.
 
+## Air Flow UI
+![system_architecture.png](air.png)
+
+##  Azure Synapse
+![system_architecture.png](azuresy.png)
+
+## Visualizing our analytics in Tableau
+![system_architecture.png](visualize.png)
